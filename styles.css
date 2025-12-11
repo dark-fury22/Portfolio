@@ -14,6 +14,10 @@
 	background-color: #1A1A2B;
 }
 
+#footer {
+	background-color: #0F0F1A;
+}
+
 .subresume {
 	background-color: #0F0F1A; 
 	border-left: 3px solid #A78BFA;
@@ -37,8 +41,8 @@ p.lead {
 
 .card {
 	  background-color: #0F0F1A;
-	  border: 3px solid #A78BFA;
-	  border-radius: 25px;
+	  border: 5px solid #A78BFA;
+	  border-radius: 10px;
 	  transition: transform 0.3s, box-shadow 0.3s;
 }
 
